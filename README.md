@@ -3,7 +3,7 @@
 ![COOPNet 模型架构](coopnet.png)
 
 # ------------------------pr曲线---------------------------------------
-![COOPNet pr曲线](pr-coopnet.png)
+![COOPNet pr曲线](pr-coop.png)
 
 # -------------------------sal------------------------------------
 ![COOPNet SAL](sal-coop.png)
