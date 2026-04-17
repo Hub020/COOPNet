@@ -1,5 +1,5 @@
 # COOPNet
-
+![COOPNet 模型架构](coopnet.png)
 
 The significance map and weights of rgbd/rgbt can be found here：
 
